@@ -14,7 +14,7 @@ const Landing = () => {
 
         <main>
           <h1>Leve a felicidadede para o mundo</h1>
-          <p>Visite o orfanato e mude o dia de muitas crianças.</p>
+          <p>Visite orfanatos e asilos e mude o dia de muitas crianças e idosos.</p>
         </main>
 
         <div className="location">
@@ -23,7 +23,7 @@ const Landing = () => {
         </div>
 
         <Link to="/app" className="enter-app">
-          <FiArrowRight />
+          <FiArrowRight color="#ebe8da" />
         </Link>
       </div>
     </div>
